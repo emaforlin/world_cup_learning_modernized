@@ -766,3 +766,131 @@ id,year,team1,score1,score2,team2
 764,2014,Portugal,2,1,Ghana
 765,2014,South Korea,0,1,Belgium
 766,2014,Algeria,1,1,Russia
+767,2018,Russia,5,0,Saudi Arabia
+768,2018,Egypt,0,1,Uruguay
+769,2018,Russia,3,1,Egypt
+770,2018,Uruguay,1,0,Saudi Arabia
+771,2018,Uruguay,3,0,Russia
+772,2018,Saudi Arabia,2,1,Egypt
+773,2018,Morocco,0,1,Iran
+774,2018,Portugal,3,3,Spain
+775,2018,Portugal,1,0,Morocco
+776,2018,Iran,0,1,Spain
+777,2018,Iran,1,1,Portugal
+778,2018,Spain,2,2,Morocco
+779,2018,France,2,1,Australia
+780,2018,Peru,0,1,Denmark
+781,2018,Denmark,1,1,Australia
+782,2018,France,1,0,Peru
+783,2018,Denmark,0,0,France
+784,2018,Australia,0,2,Peru
+785,2018,Argentina,1,1,Iceland
+786,2018,Croatia,2,0,Nigeria
+787,2018,Argentina,0,3,Croatia
+788,2018,Nigeria,2,0,Iceland
+789,2018,Nigeria,1,2,Argentina
+790,2018,Iceland,1,2,Croatia
+791,2018,Costa Rica,0,1,Serbia
+792,2018,Brazil,1,1,Switzerland
+793,2018,Brazil,2,0,Costa Rica
+794,2018,Serbia,1,2,Switzerland
+795,2018,Serbia,0,2,Brazil
+796,2018,Switzerland,2,2,Costa Rica
+797,2018,Germany,0,1,Mexico
+798,2018,Sweden,1,0,South Korea
+799,2018,South Korea,1,2,Mexico
+800,2018,Germany,2,1,Sweden
+801,2018,South Korea,2,0,Germany
+802,2018,Mexico,0,3,Sweden
+803,2018,Belgium,3,0,Panama
+804,2018,Tunisia,1,2,England
+805,2018,Belgium,5,2,Tunisia
+806,2018,England,6,1,Panama
+807,2018,England,0,1,Belgium
+808,2018,Panama,1,2,Tunisia
+809,2018,Colombia,1,2,Japan
+810,2018,Poland,1,2,Senegal
+811,2018,Japan,2,2,Senegal
+812,2018,Poland,0,3,Colombia
+813,2018,Japan,0,1,Poland
+814,2018,Senegal,0,1,Colombia
+815,2018,France,4,3,Argentina
+816,2018,Uruguay,2,1,Portugal
+817,2018,Spain,1,1,Russia
+818,2018,Croatia,1,1,Denmark
+819,2018,Brazil,2,0,Mexico
+820,2018,Belgium,3,2,Japan
+821,2018,Sweden,1,0,Switzerland
+822,2018,Colombia,1,1,England
+823,2018,Uruguay,0,2,France
+824,2018,Brazil,1,2,Belgium
+825,2018,Sweden,0,2,England
+826,2018,Russia,2,2,Croatia
+827,2018,France,1,0,Belgium
+828,2018,Croatia,2,1,England
+829,2018,Belgium,2,0,England
+830,2018,France,4,2,Croatia
+831,2022,Qatar,0,2,Ecuador
+832,2022,Senegal,0,2,Netherlands
+833,2022,Qatar,1,3,Senegal
+834,2022,Netherlands,1,1,Ecuador
+835,2022,Ecuador,1,2,Senegal
+836,2022,Netherlands,2,0,Qatar
+837,2022,England,6,2,Iran
+838,2022,USA,1,1,Wales
+839,2022,Wales,0,2,Iran
+840,2022,England,0,0,USA
+841,2022,Wales,0,3,England
+842,2022,Iran,0,1,USA
+843,2022,Argentina,1,2,Saudi Arabia
+844,2022,Mexico,0,0,Poland
+845,2022,Poland,2,0,Saudi Arabia
+846,2022,Argentina,2,0,Mexico
+847,2022,Poland,0,2,Argentina
+848,2022,Saudi Arabia,1,2,Mexico
+849,2022,Denmark,0,0,Tunisia
+850,2022,France,4,1,Australia
+851,2022,Tunisia,0,1,Australia
+852,2022,France,2,1,Denmark
+853,2022,Australia,1,0,Denmark
+854,2022,Tunisia,1,0,France
+855,2022,Germany,1,2,Japan
+856,2022,Spain,7,0,Costa Rica
+857,2022,Japan,0,1,Costa Rica
+858,2022,Spain,1,1,Germany
+859,2022,Japan,2,1,Spain
+860,2022,Costa Rica,2,4,Germany
+861,2022,Morocco,0,0,Croatia
+862,2022,Belgium,1,0,Canada
+863,2022,Belgium,0,2,Morocco
+864,2022,Croatia,4,1,Canada
+865,2022,Croatia,0,0,Belgium
+866,2022,Canada,1,2,Morocco
+867,2022,Switzerland,1,0,Cameroon
+868,2022,Brazil,2,0,Serbia
+869,2022,Cameroon,3,3,Serbia
+870,2022,Brazil,1,0,Switzerland
+871,2022,Serbia,2,3,Switzerland
+872,2022,Cameroon,1,0,Brazil
+873,2022,Uruguay,0,0,South Korea
+874,2022,Portugal,3,2,Ghana
+875,2022,South Korea,2,3,Ghana
+876,2022,Portugal,2,0,Uruguay
+877,2022,Ghana,0,2,Uruguay
+878,2022,South Korea,2,1,Portugal
+879,2022,Netherlands,3,1,USA
+880,2022,Argentina,2,1,Australia
+881,2022,France,3,1,Poland
+882,2022,England,3,0,Senegal
+883,2022,Japan,1,1,Croatia
+884,2022,Brazil,4,1,South Korea
+885,2022,Morocco,0,0,Spain
+886,2022,Portugal,6,1,Switzerland
+887,2022,Croatia,1,1,Brazil
+888,2022,Netherlands,2,2,Argentina
+889,2022,Morocco,1,0,Portugal
+890,2022,England,1,2,France
+891,2022,Argentina,3,0,Croatia
+892,2022,France,2,0,Morocco
+893,2022,Croatia,2,1,Morocco
+894,2022,Argentina,3,3,France
