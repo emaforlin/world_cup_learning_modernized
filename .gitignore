@@ -78,6 +78,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Auto-generated data files (run fetch_international.py to regenerate)
+raw_international.csv
+
 # IPython
 profile_default/
 ipython_config.py
